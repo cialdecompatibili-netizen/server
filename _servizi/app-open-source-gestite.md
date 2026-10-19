@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "App open source gestite"
-description: "Nextcloud, n8n, Uptime Kuma e altre app installate, aggiornate e salvate da noi."
+description: "Nextcloud, Uptime Kuma e altre app installate, aggiornate e salvate da noi."
 ordine: 9
 in_home: true
 seo_title: "App open source gestite | ScalaHost"
-seo_description: "Nextcloud, n8n, Uptime Kuma e altre app installate, aggiornate e salvate da noi."
+seo_description: "Nextcloud, Uptime Kuma e altre app installate, aggiornate e salvate da noi."
 ---
 
 Molte persone vogliono usare app open source ma non gestire il server. Le installiamo sul tuo dominio, le teniamo aggiornate e facciamo i backup.
@@ -25,7 +25,7 @@ Molte persone vogliono usare app open source ma non gestire il server. Le instal
 ## Domande frequenti
 
 ### Quali app?
-Nextcloud, n8n, Uptime Kuma e altre su richiesta.
+Nextcloud, Uptime Kuma e altre su richiesta.
 
 ## Pre-ordina
 

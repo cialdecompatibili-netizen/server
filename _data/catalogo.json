@@ -254,12 +254,12 @@
     {
       "id": "app-gestita",
       "nome": "App open source gestita",
-      "descrizione": "Nextcloud, n8n, Uptime Kuma e altre app installate e aggiornate da noi.",
+      "descrizione": "Nextcloud, Uptime Kuma e altre app installate e aggiornate da noi.",
       "categoria": "web",
       "icona": "🧩",
       "tipo": "digitale",
       "prezzo_centesimi": 999,
-      "descrizione_completa": "Nextcloud, n8n, Uptime Kuma e altre app installate e aggiornate da noi.\nInstallazione, aggiornamenti, backup e dominio collegato.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "descrizione_completa": "Nextcloud, Uptime Kuma e altre app installate e aggiornate da noi.\nInstallazione, aggiornamenti, backup e dominio collegato.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
       "immagine": "",
       "visibile": true
     },
