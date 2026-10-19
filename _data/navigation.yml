@@ -1,13 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "Lavori svolti"
-    url: /progetti/
-  - title: "Blog"
-    url: /blog/
-  - title: "Servizi"
+  - title: "Piani"
     url: /servizi/
-  - title: "Negozio"
+  - title: "Pre-ordina"
     url: /negozio/
   - title: "Contatti"
     url: /contatti/

@@ -1,20 +1,19 @@
 related_posts: 3
-title: EdilExtreme
+title: ScalaHost
 baseurl: "/server"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
-description: "EdilExtreme: lavori edili su fune a Roma e nel Lazio. Grondaie, canne fumarie, facciate, tetti e messa in sicurezza senza ponteggi. Sopralluogo gratuito."
-footer_text: "&copy; 2026 EdilExtreme"
+description: "ScalaHost: server di gioco, VPS e hosting a canone mensile. Minecraft, Palworld, Rust, ARK, FiveM, WordPress gestito. Pre-ordina senza pagamento anticipato."
+footer_text: "&copy; 2026 ScalaHost"
 minimal_mistakes_skin: default
 search: true
 
 # SEO globale
 author:
-  name: "Andrew"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Andrew, fondatore di EdilExtreme. Lavori edili in quota su fune, senza ponteggi. Scrivimi per un sopralluogo gratuito."
+  name: "ScalaHost"
+  bio: "Server di gioco, VPS e hosting a canone mensile. Pre-ordina il tuo piano."
   links:
-    - label: "Richiedi un preventivo"
+    - label: "Scrivici"
       icon: "fas fa-fw fa-envelope"
       url: "/server/contatti/"
 
